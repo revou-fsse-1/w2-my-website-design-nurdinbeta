@@ -24,12 +24,12 @@ Link Figma : https://www.figma.com/proto/GiKPi2Gv50bRdCixZPdHxG/w3-my-website-de
 
 Miro (Wireframe)
 
-![Screenshoots Miro 1](assets/scmiro1.png)
+![Screenshoots Miro 3](assets/scmiro3.png)
 
-![Screenshoots Miro 2](assets/scmiro2.png)
+![Screenshoots Miro 1](assets/scmiro1.png) ![Screenshoots Miro 2](assets/scmiro2.png)
 
 Figma (Mock Up and Prototype)
 
-![Screenshoots Figma 1](assets/scfigma1.png)
+![Screenshoots Figma 3](assets/scfigma3.png)
 
-![Screenshoots Figma 2](assets/scfigma2.png)
+![Screenshoots Figma 1](assets/scfigma1.png) ![Screenshoots Figma 2](assets/scfigma2.png)
