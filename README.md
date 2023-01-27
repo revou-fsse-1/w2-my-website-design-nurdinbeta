@@ -26,10 +26,6 @@ Miro (Wireframe)
 
 ![Screenshoots Miro 3](assets/scmiro3.png)
 
-![Screenshoots Miro 1](assets/scmiro1.png) ![Screenshoots Miro 2](assets/scmiro2.png)
-
 Figma (Mock Up and Prototype)
 
 ![Screenshoots Figma 3](assets/scfigma3.png)
-
-![Screenshoots Figma 1](assets/scfigma1.png) ![Screenshoots Figma 2](assets/scfigma2.png)
